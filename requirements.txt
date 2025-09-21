@@ -3,15 +3,7 @@ streamlit==1.40.1
 pandas==2.0.3
 numpy==1.24.3
 
-# Document processing
-PyPDF2==3.0.1
-python-docx==1.1.0
 
-# AI/ML
-google-generativeai==0.8.2
-
-# File handling and utilities
-pathlib2==2.3.7
 
 # Optional: For enhanced database features
 # sqlalchemy==2.0.25

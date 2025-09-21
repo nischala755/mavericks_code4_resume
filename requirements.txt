@@ -1,15 +1,7 @@
-# Core dependencies
 streamlit==1.40.1
 pandas==2.0.3
 numpy==1.24.3
-
-
-
-# Optional: For enhanced database features
-# sqlalchemy==2.0.25
-
-# Optional: For enhanced charts and visualizations
-# plotly==5.17.0
-# matplotlib==3.7.2
-
-# Note: Uncomment the optional dependencies if you plan to use them.
+rich==14.1.0
+pygments==2.19.2
+markdown-it-py==4.0.0
+mdurl==0.1.2
